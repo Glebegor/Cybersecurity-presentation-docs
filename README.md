@@ -50,3 +50,8 @@ Děkujeme za vaši pozornost a spolupráci.
 - 1password - https://1password.com
 - Total Password - https://www.totalpassword.com
 - Keeper - https://www.keepersecurity.com
+
+### Encryption Software 
+- AxCrypt Premium - https://axcrypt.net/premium/
+- NordLocker - https://nordlocker.com
+- Encrypto - https://macpaw.com/encrypto
