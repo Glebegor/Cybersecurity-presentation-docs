@@ -45,3 +45,8 @@ Děkujeme za vaši pozornost a spolupráci.
 - nmap - https://nmap.org
 - RustScan - https://github.com/RustScan/RustScan
 - Pentest-Tools - https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap
+
+### Password managers
+- 1password - https://1password.com
+- Total Password - https://www.totalpassword.com
+- Keeper - https://www.keepersecurity.com
