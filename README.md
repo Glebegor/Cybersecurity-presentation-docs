@@ -52,6 +52,8 @@ Retranslační útok, známý také jako "man-in-the-middle" útok, je technika,
 
 Tento typ útoku může být prováděn v různých kontextech, včetně komunikace přes internet, Wi-Fi sítě nebo dokonce fyzické kabely. Útočník může získat citlivé informace, jako jsou hesla, bankovní údaje nebo osobní údaje, a může dokonce vést k podvržení nebo změně dat.
 ### Web
+Ochrana na webu zahrnuje různé opatření, která uživatelé mohou uplatnit k ochraně své bezpečnosti a soukromí. Důležitými faktory jsou používání silných hesel, která jsou jedinečná pro každý účet, a pravidelné aktualizace softwaru, aby se minimalizovalo riziko zneužití zranitelností. Dále je důležité používat webové stránky s šifrovaným připojením (HTTPS) pro bezpečný přenos dat. Instalace antivirového softwaru a softwaru proti malware je také klíčová pro ochranu před škodlivým softwarem. Uživatelé by měli být obezřetní při sdílení osobních informací online a vyhýbat se podezřelým e-mailům a odkazům, které by mohly být součástí phishingových útoků. Tyto kroky mohou pomoci chránit uživatele před různými online hrozbami a zajistit bezpečné procházení internetem.
+
 ### Pracé z Software
 ### Pracé z Hardware
 ## Typy ochrany
