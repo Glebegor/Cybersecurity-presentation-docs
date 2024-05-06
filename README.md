@@ -55,8 +55,45 @@ Tento typ útoku může být prováděn v různých kontextech, včetně komunik
 Ochrana na webu zahrnuje různé opatření, která uživatelé mohou uplatnit k ochraně své bezpečnosti a soukromí. Důležitými faktory jsou používání silných hesel, která jsou jedinečná pro každý účet, a pravidelné aktualizace softwaru, aby se minimalizovalo riziko zneužití zranitelností. Dále je důležité používat webové stránky s šifrovaným připojením (HTTPS) pro bezpečný přenos dat. Instalace antivirového softwaru a softwaru proti malware je také klíčová pro ochranu před škodlivým softwarem. Uživatelé by měli být obezřetní při sdílení osobních informací online a vyhýbat se podezřelým e-mailům a odkazům, které by mohly být součástí phishingových útoků. Tyto kroky mohou pomoci chránit uživatele před různými online hrozbami a zajistit bezpečné procházení internetem.
 
 ### Pracé z Software
+
+Práce s softwarem je klíčová součástí moderního pracovního života. Při používání softwaru je důležité dbát na několik zásad, které zajišťují bezpečnost a efektivitu práce.
+
+Pravidelné aktualizace softwaru jsou nezbytné pro optimalizaci jeho výkonu a zajištění bezpečnosti. Aktualizace často opravují chyby a zranitelnosti, které by mohly být zneužity útočníky.
+
+Dále je důležité provádět pravidelná zálohování dat, abyste minimalizovali riziko jejich ztráty v případě selhání systému nebo jiné nečekané události.
+
+Používejte pouze legálně licencovaný software, abyste se vyhnuli právním problémům a zajišťovali podporu a bezpečnost od výrobce.
+
+Ochrana heslem je klíčová pro ochranu citlivých údajů a účtů v softwaru. Používejte silná a jedinečná hesla a neukládejte je na nezabezpečených místech.
+
+Poskytujte uživatelům pravidelné školení o bezpečném používání softwaru a prevenci proti hrozbám, jako jsou phishingové útoky nebo malware.
+
+Instalujte a pravidelně aktualizujte antivirový software a softwarová řešení pro detekci a odstranění škodlivého softwaru, abyste chránili svá data a systém před hrozbami.
 ### Pracé z Hardware
+Práce s hardwarem je neoddělitelnou součástí mnoha profesních i osobních činností. Při manipulaci s hardwarem je důležité dodržovat několik klíčových principů, které zajišťují bezpečnost a optimální výkon zařízení.
+
+Pravidelná údržba hardware je nezbytná pro zachování jeho funkčnosti a spolehlivosti. To zahrnuje čištění a odstraňování prachu, kontrolu a výměnu chladičů a ventilátorů a další rutinní úkony.
+
+Dodržujte správné postupy při manipulaci s hardwarem, jako je správné zapojení a odpojení zařízení, aby se minimalizovalo riziko poškození nebo poruchy.
+
+Zajistěte správnou ventilaci a chlazení zařízení, aby se zabránilo přehřívání a zvýšení rizika selhání hardware.
+
+Provádějte pravidelné zálohování dat uložených na hardware, abyste minimalizovali riziko jejich ztráty v případě havárie nebo poškození.
+
+Využívejte aktuální bezpečnostní opatření, jako je antivirový software a firewall, k ochraně hardware před možnými hrozbami, jako jsou malware a hackingové útoky.
+
+Při údržbě nebo opravě hardware dodržujte bezpečnostní pokyny a postupy, abyste minimalizovali riziko úrazu nebo poškození zařízení.
 ## Typy ochrany
+Ochrana je klíčovým prvkem při zachování bezpečnosti a integrity dat, systémů a sítí. Existuje několik typů ochrany, které se používají k minimalizaci rizika a zajištění bezpečnosti:
+
+- Ochrana heslem: Jednoduchým a běžným typem ochrany je použití hesel k ochraně přístupu k účtům, zařízením a datům. Silná a jedinečná hesla chrání před neoprávněným přístupem.
+- Šifrování dat: Šifrování dat přeměňuje čitelná data na nečitelnou formu, která je chráněna pomocí šifrovacích algoritmů. To zajišťuje, že citlivá data zůstanou bezpečná i v případě, že dojde k jejich úniku.
+- Firewally: Firewally jsou softwarové nebo hardwarové prvky, které monitorují a kontrolují síťový provoz, aby chránily síť před neoprávněným přístupem, útoky a škodlivým softwarem.
+Antivirový software: Antivirový software je navržen k detekci, blokování a odstranění škodlivého softwaru, včetně virů, trojanů, špionážního softwaru a ransomwaru.
+- Biometrická autentizace: Tento typ ochrany využívá biometrických charakteristik, jako jsou otisky prstů, rozpoznávání obličeje nebo hlasu, k ověření identity uživatele.
+- Aktualizace softwaru: Pravidelné aktualizace softwaru zajišťují, že jsou aplikace a systémy chráněny před známými zranitelnostmi a bezpečnostními hrozbami.
+- Zálohování dat: Pravidelné zálohování dat chrání před jejich ztrátou v důsledku havárie, poškození nebo útoku ransomware.
+Tyto typy ochrany mohou být kombinovány a přizpůsobeny podle potřeb a konkrétního prostředí, aby se zajišťovala co nejvyšší úroveň bezpečnosti a ochrany.
 ## Odborná část
 
 ### Kryptografie
@@ -121,3 +158,6 @@ VPN vytváří soukromou síť pomocí veřejné sítě, jako je internet. Pomoc
 - AxCrypt Premium - https://axcrypt.net/premium/
 - NordLocker - https://nordlocker.com
 - Encrypto - https://macpaw.com/encrypto
+
+## CCA
+Cybersecurity pro uživatele PC je důležitým aspektem moderního digitálního života. Zajištění bezpečnosti vašeho počítače zahrnuje používání silných hesel, pravidelné aktualizace softwaru, obezřetnost při otevírání e-mailů a odkazů, a instalaci antivirového softwaru. Důsledné dodržování základních bezpečnostních opatření vám pomůže chránit vaše osobní údaje, citlivé informace a celkově zlepší bezpečnost vašeho počítače před různými online hrozbami. Buďte obezřetní a chráníme sebe i své digitální prostředí.
