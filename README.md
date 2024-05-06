@@ -37,4 +37,5 @@ Hamachi - https://vpn.net
 LostMyPass - https://www.lostmypass.com/file-types/zip/
 ZipCracker - https://github.com/TrollSkull/ZipCracker
 
-###
+### Packet sniffers
+solarwinds - https://www.solarwinds.com/network-performance-monitor/use-cases/wifi-packet-sniffer
