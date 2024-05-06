@@ -15,6 +15,7 @@ Používání pouze licencovaného a ověřeného softwaru je nejlepší způsob
 V dolní části se nachází část s katalogem důvěryhodného softwaru.
 Děkujeme za vaši pozornost a spolupráci.
 ## Popis témat
+Téma "Zásady bezpečné práce na PC" zahrnuje klíčové principy a postupy pro ochranu počítače a dat. To zahrnuje používání silných hesel, pravidelné aktualizace softwaru, instalaci antivirového softwaru a firewalu. Důraz je kladen na obezřetnost při otevírání e-mailových příloh a odkazů, aby se zabránilo phishingovým útokům. Dalšími důležitými aspekty jsou zálohování dat, používání dvoufaktorové autentizace a obezřetnost při stahování nebo sdílení souborů online. Téma také zahrnuje zásady bezpečné práce na veřejných PC a ve veřejných Wi-Fi sítích, včetně opatrnosti při zadávání citlivých informací a používání šifrovaných spojení.
 ## Úvod
 ## Před čím se chránit?
 ### Hackersky útoky
