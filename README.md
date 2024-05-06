@@ -25,6 +25,17 @@ Děkujeme za vaši pozornost a spolupráci.
 ### Pracé z Hardware
 ## Typy ochrany
 ## Odborná část
+### RSA
+RSA (Rivest-Shamir-Adleman) je asymetrický šifrovací algoritmus, který se používá pro šifrování a dešifrování dat a také pro digitální podpisy. Jeho fungování je založeno na matematických principech teorie čísel, konkrétně na obtížnosti faktorizace velkých prvočísel.
+
+Algoritmus RSA využívá klíčový pár, který se skládá z veřejného a soukromého klíče. Veřejný klíč je používán pro šifrování dat, zatímco soukromý klíč je používán pro jejich dešifrování. Generování klíčů začíná výběrem dvou velkých prvočísel, jejichž součin je modulus n. Dále je spočítána Eulerova funkce phi(n), která udává počet relativně prvočíselných čísel menších než n a nesoudělných s n. Poté je vybrán veřejný exponent e, který musí být relativně prvočíselný s hodnotou phi(n). Soukromý exponent d je zvolen tak, aby byl inverzní k veřejnému exponentu modulo phi(n).
+
+Pro šifrování zprávy se používá veřejný klíč, zatímco pro dešifrování se používá soukromý klíč. Šifrování probíhá výpočtem zprávy na e-tou mocninu modulo n. Dešifrování probíhá výpočtem šifrované zprávy na d-tou mocninu modulo n.
+
+RSA zůstává bezpečný, pokud je obtížné faktorizovat velká prvočísla n. Bez soukromého klíče je faktorizace n prakticky nemožná pro dostatečně velká prvočísla p a q. RSA je jedním z nejpoužívanějších asymetrických šifrovacích algoritmů a má široké uplatnění v digitální komunikaci, elektronickém podpisu a bezpečném přenosu dat přes internet.
+
+### Hash
+Hashování je proces, při kterém se vstupní data transformují do pevného formátu fixní délky, který se nazývá hash. Tato hash hodnota je pak používána pro rychlé ověření integrity dat. Hashovací funkce, která provádí tuto transformaci, musí být deterministická a vysoce odolná vůči kolizím. Hashování má mnoho využití včetně ověřování integrity dat, ukládání hesel, digitálních podpisů a rychlého vyhledávání v databázích. Bezpečné hashovací algoritmy jsou klíčové pro zachování integrity a bezpečnosti dat v různých počítačových aplikacích.
 
 ## Zajímavé aplikace
 
