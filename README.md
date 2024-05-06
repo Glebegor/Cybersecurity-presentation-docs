@@ -29,13 +29,14 @@ Děkujeme za vaši pozornost a spolupráci.
 ## Zajímavé aplikace
 
 ### VPN/Proxies
-Tor browser - https://www.torproject.org/download/ 
-Tailscale - https://tailscale.com
-Hamachi - https://vpn.net
+- Tor browser - https://www.torproject.org/download/ 
+- Tailscale - https://tailscale.com
+- Hamachi - https://vpn.net
 
 ### Zip Unlocker
-LostMyPass - https://www.lostmypass.com/file-types/zip/
-ZipCracker - https://github.com/TrollSkull/ZipCracker
+- LostMyPass - https://www.lostmypass.com/file-types/zip/
+- ZipCracker - https://github.com/TrollSkull/ZipCracker
 
 ### Packet sniffers
-solarwinds - https://www.solarwinds.com/network-performance-monitor/use-cases/wifi-packet-sniffer
+- solarwinds - https://www.solarwinds.com/network-performance-monitor/use-cases/wifi-packet-sniffer
+- wireshark - https://www.wireshark.org
