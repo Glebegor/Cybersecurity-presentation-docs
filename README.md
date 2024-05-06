@@ -47,6 +47,18 @@ RSA zůstává bezpečný, pokud je obtížné faktorizovat velká prvočísla n
 ### Hash
 Hashování je proces, při kterém se vstupní data transformují do pevného formátu fixní délky, který se nazývá hash. Tato hash hodnota je pak používána pro rychlé ověření integrity dat. Hashovací funkce, která provádí tuto transformaci, musí být deterministická a vysoce odolná vůči kolizím. Hashování má mnoho využití včetně ověřování integrity dat, ukládání hesel, digitálních podpisů a rychlého vyhledávání v databázích. Bezpečné hashovací algoritmy jsou klíčové pro zachování integrity a bezpečnosti dat v různých počítačových aplikacích.
 
+### Packet sniffer
+Packet sniffer je nástroj nebo software, který umožňuje sledovat a analyzovat datový provoz na síťové úrovni. Tento typ nástroje zachytává data, která procházejí přes síť, a zobrazuje je uživateli v podrobné podobě. Mezi hlavní využití patří diagnostika síťových problémů, monitorování síťového provozu a bezpečnostní analýza.
+
+Pomocí packet snifferu můžete sledovat různé informace o síťovém provozu, jako jsou zdrojové a cílové IP adresy, porty, přenosové rychlosti a obsah datových paketů. To umožňuje administrátorům sítě identifikovat potenciální problémy, jako jsou přetížené linky, ztracené pakety nebo síťové útoky.
+
+### VPN/Proxies
+VPN (Virtual Private Network) a proxy server jsou dva nástroje používané k zabezpečení a anonymizaci internetového připojení, ale fungují trochu odlišně.
+
+VPN vytváří soukromou síť pomocí veřejné sítě, jako je internet. Pomocí VPN se vaše data šifrují před odesláním přes internet a poté dešifrují na cílovém serveru. To znamená, že vaše internetové aktivity jsou chráněny proti odposlouchávání a sledování. VPN také může skrýt vaši skutečnou IP adresu tím, že přesměruje vaši síťovou aktivitu přes server umístěný v jiné zemi, což vytváří dojem, že připojení pochází z jiného místa.
+
+
+
 ## Zajímavé aplikace
 
 ### VPN/Proxies
