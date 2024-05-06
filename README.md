@@ -44,3 +44,4 @@ Děkujeme za vaši pozornost a spolupráci.
 ### Port scanners
 - nmap - https://nmap.org
 - RustScan - https://github.com/RustScan/RustScan
+- Pentest-Tools - https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap
