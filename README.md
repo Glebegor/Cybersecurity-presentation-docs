@@ -37,7 +37,14 @@ Další hrozbou jsou útoky na webové stránky a sítě. Webové stránky mohou
 Kromě toho je důležité chránit se před nebezpečím plynoucím z používání neověřeného softwaru a hardware. Neoprávněný software může obsahovat malware a spyware, které mohou ohrozit vaši bezpečnost a soukromí. Neověřený hardware může být zranitelný vůči fyzickým útokům, jako je fyzický přístup k zařízení nebo manipulace s hardwarem.
 
 ### Hackersky útoky
+Hackerské útoky jsou neustále hrozbou pro bezpečnost počítačových systémů a sítí. Hackeři využívají různé techniky a nástroje k proniknutí do cílového systému nebo sítě, aby získali neoprávněný přístup k datům nebo způsobili škody. Mezi běžné typy útoků patří phishing, kdy se hackeři pokoušejí získat citlivé informace od uživatelů pomocí klamných e-mailů nebo webových stránek, a malware, který je distribuován prostřednictvím škodlivých souborů nebo odkazů.
+
+Penetrační testování, známé také jako pentesting, je proces systematického testování bezpečnostních opatření systému nebo sítě pomocí technik, které imitují útoky reálných hackerů. Cílem pentestingu je identifikovat slabá místa v bezpečnostních mechanismech a pomoci organizacím zlepšit jejich obranyschopnost.
+
+Při ochraně proti hackerským útokům je důležité provádět pravidelné pentestování, aby byla identifikována a odstraněna jakákoli bezpečnostní slabina nebo nedostatek. Tím se organizacím umožní přijmout preventivní opatření a zlepšit bezpečnostní postupy, což může v konečném důsledku snížit riziko úspěšného útoku a minimalizovat škody způsobené potenciálními útoky.
+
 ### Data
+Ochrana dat je klíčovým prvkem v digitálním světě, kde citlivé informace mohou být cílem různých hrozeb. Šifrování dat poskytuje ochranu před neoprávněným přístupem, zatímco silná autentizace a správa přístupových práv minimalizují riziko zneužití. Pravidelné zálohování dat je zásadní pro obnovení v případě havárie nebo útoku ransomware. Aktualizace softwaru a aplikace bezpečnostních záplat jsou klíčové pro odstranění zranitelností. Dodržování bezpečnostních postupů a školení uživatelů pomáhají snižovat riziko neúmyslných bezpečnostních incidentů. Celkově je důležité vnímat ochranu dat jako neustálý proces, který vyžaduje pozornost a péči na všech úrovních.
 ### Wifi
 ### Web
 ### Pracé z Software
