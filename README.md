@@ -17,6 +17,16 @@ Děkujeme za vaši pozornost a spolupráci.
 ## Popis témat
 Téma "Zásady bezpečné práce na PC" zahrnuje klíčové principy a postupy pro ochranu počítače a dat. To zahrnuje používání silných hesel, pravidelné aktualizace softwaru, instalaci antivirového softwaru a firewalu. Důraz je kladen na obezřetnost při otevírání e-mailových příloh a odkazů, aby se zabránilo phishingovým útokům. Dalšími důležitými aspekty jsou zálohování dat, používání dvoufaktorové autentizace a obezřetnost při stahování nebo sdílení souborů online. Téma také zahrnuje zásady bezpečné práce na veřejných PC a ve veřejných Wi-Fi sítích, včetně opatrnosti při zadávání citlivých informací a používání šifrovaných spojení.
 ## Úvod
+Vítejte ve světě digitální bezpečnosti, kde ochrana vašich dat a soukromí je klíčová pro bezpečný a pohodlný zážitek z používání počítače. Dnešní doba nám přináší nekonečné možnosti, ale zároveň i řadu hrozeb, které mohou ohrozit naše osobní informace a citlivá data.
+
+Zabezpečení vašich dokumentů a PC je jako starost o svůj vlastní digitální hrad. Jak můžete zajistit, aby byly vaše dokumenty chráněny před nedovoleným přístupem a vaše PC bylo opevněno proti různým formám kybernetických hrozeb?
+
+Neexistuje žádný jednorázový recept, ale existuje řada jednoduchých a účinných zásad, které vám pomohou posílit bezpečnost vašich dat a vašeho zařízení. Od základních opatření, jako je pravidelné aktualizování softwaru a používání silných hesel, až po pokročilé techniky, jako je používání VPN připojení a dvoufaktorové autentizace, existuje mnoho způsobů, jak ochránit sebe a své informace.
+
+Ale bezpečnost na internetu nekončí u vašeho osobního počítače. Co když pracujete na veřejném PC v kavárně nebo v letištní čekárně? Jak si můžete být jisti, že vaše data nejsou ohrožena? A co při používání veřejné Wi-Fi sítě, která může být snadno zneužita?
+
+Ať už jste doma, v práci nebo na cestách, je důležité mít správné návyky a znalosti, abyste mohli surfovat po internetu s důvěrou a klidem. Tak pojďme společně objevit způsoby, jak zvýšit zabezpečení vašich dokumentů a počítače a být na všechny výzvy digitálního světa připraveni!
+
 ## Před čím se chránit?
 ### Hackersky útoky
 ### Data
