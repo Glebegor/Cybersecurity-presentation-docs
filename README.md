@@ -28,6 +28,14 @@ Ale bezpečnost na internetu nekončí u vašeho osobního počítače. Co když
 Ať už jste doma, v práci nebo na cestách, je důležité mít správné návyky a znalosti, abyste mohli surfovat po internetu s důvěrou a klidem. Tak pojďme společně objevit způsoby, jak zvýšit zabezpečení vašich dokumentů a počítače a být na všechny výzvy digitálního světa připraveni!
 
 ## Před čím se chránit?
+Při práci na počítači je důležité chránit se před různými hrozbami, které mohou ohrozit bezpečnost vašich dat a zařízení. Jednou z hlavních hrozeb jsou hackerské útoky, které mohou zahrnovat phishing, malware, ransomware a další škodlivý software. Je třeba být obezřetný při otevírání e-mailů, stahování souborů z neznámých zdrojů a proklikávání se po internetu.
+
+Důležité je také chránit vaše data před neoprávněným přístupem. To zahrnuje používání silných a jedinečných hesel pro všechny účty, pravidelné zálohování dat a aktivaci možností, jako je dvoufaktorová autentizace. Bezpečnostní opatření by měla být rozšířena i na veřejná Wi-Fi spojení, kde může být provoz snadno odposloucháván.
+
+Další hrozbou jsou útoky na webové stránky a sítě. Webové stránky mohou být kompromitovány pomocí injekce SQL, XSS útoky a dalších technik. Sítě mohou být ohroženy útoky typu DoS (Denial of Service) nebo DDoS (Distributed Denial of Service), které mohou způsobit výpadky služeb.
+
+Kromě toho je důležité chránit se před nebezpečím plynoucím z používání neověřeného softwaru a hardware. Neoprávněný software může obsahovat malware a spyware, které mohou ohrozit vaši bezpečnost a soukromí. Neověřený hardware může být zranitelný vůči fyzickým útokům, jako je fyzický přístup k zařízení nebo manipulace s hardwarem.
+
 ### Hackersky útoky
 ### Data
 ### Wifi
