@@ -25,6 +25,16 @@ Děkujeme za vaši pozornost a spolupráci.
 ### Pracé z Hardware
 ## Typy ochrany
 ## Odborná část
+
+### Kryptografie
+Kryptografie je věda, která se zabývá zabezpečením komunikace a dat pomocí různých technik a algoritmů. Jedním z hlavních cílů kryptografie je zajistit, aby pouze autorizovaní uživatelé mohli číst, modifikovat nebo dekódovat data. Existují různé metody kryptografie, z nichž některé jsou symetrické a jiné asymetrické.
+
+Symetrická kryptografie používá stejný klíč pro šifrování a dešifrování dat. Tento klíč musí být sdílen mezi komunikujícími stranami před začátkem komunikace. Příkladem symetrického šifrování je šifra AES (Advanced Encryption Standard), která je široce používána pro zabezpečení dat v různých aplikacích.
+
+Na druhou stranu asymetrická kryptografie používá dva klíče: veřejný a soukromý. Veřejný klíč je sdílen s kýmkoli, kdo chce komunikovat s uživatelem, zatímco soukromý klíč je udržován v tajnosti. Tento přístup umožňuje bezpečnou komunikaci bez předchozího výměny klíčů. Nejznámějším asymetrickým kryptografickým systémem je RSA (Rivest-Shamir-Adleman), který se používá pro šifrování zpráv a digitální podpisy.
+
+Kryptografie je klíčovým nástrojem pro ochranu důvěrnosti, integrity a autentičnosti dat v moderní digitální éře. Používá se v mnoha oblastech, včetně komunikace mezi uživateli, bankovních transakcí, e-mailových zpráv a elektronického obchodování. Zabezpečení dat pomocí kryptografie je důležité pro ochranu soukromí a citlivých informací v online prostředí.
+
 ### RSA
 RSA (Rivest-Shamir-Adleman) je asymetrický šifrovací algoritmus, který se používá pro šifrování a dešifrování dat a také pro digitální podpisy. Jeho fungování je založeno na matematických principech teorie čísel, konkrétně na obtížnosti faktorizace velkých prvočísel.
 
