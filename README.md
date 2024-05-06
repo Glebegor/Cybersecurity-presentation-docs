@@ -40,3 +40,7 @@ Děkujeme za vaši pozornost a spolupráci.
 ### Packet sniffers
 - solarwinds - https://www.solarwinds.com/network-performance-monitor/use-cases/wifi-packet-sniffer
 - wireshark - https://www.wireshark.org
+
+### Port scanners
+- nmap - https://nmap.org
+- RustScan - https://github.com/RustScan/RustScan
