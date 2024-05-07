@@ -140,6 +140,10 @@ VPN vytváří soukromou síť pomocí veřejné sítě, jako je internet. Pomoc
 - LostMyPass - https://www.lostmypass.com/file-types/zip/
 - ZipCracker - https://github.com/TrollSkull/ZipCracker
 
+### Password cracker
+- Hydra - https://www.kali.org/tools/hydra/
+- John the Ripper - https://www.openwall.com/john/
+
 ### Packet sniffers
 - solarwinds - https://www.solarwinds.com/network-performance-monitor/use-cases/wifi-packet-sniffer
 - wireshark - https://www.wireshark.org
@@ -153,6 +157,7 @@ VPN vytváří soukromou síť pomocí veřejné sítě, jako je internet. Pomoc
 - 1password - https://1password.com
 - Total Password - https://www.totalpassword.com
 - Keeper - https://www.keepersecurity.com
+
 
 ### Encryption Software 
 - AxCrypt Premium - https://axcrypt.net/premium/
