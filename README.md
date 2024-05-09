@@ -152,6 +152,7 @@ VPN vytváří soukromou síť pomocí veřejné sítě, jako je internet. Pomoc
 - nmap - https://nmap.org
 - RustScan - https://github.com/RustScan/RustScan
 - Pentest-Tools - https://pentest-tools.com/network-vulnerability-scanning/port-scanner-online-nmap
+- ncat - https://nmap.org/ncat/
 
 ### Password managers
 - 1password - https://1password.com
