@@ -54,7 +54,7 @@ Tento typ útoku může být prováděn v různých kontextech, včetně komunik
 ### Web
 Ochrana na webu zahrnuje různé opatření, která uživatelé mohou uplatnit k ochraně své bezpečnosti a soukromí. Důležitými faktory jsou používání silných hesel, která jsou jedinečná pro každý účet, a pravidelné aktualizace softwaru, aby se minimalizovalo riziko zneužití zranitelností. Dále je důležité používat webové stránky s šifrovaným připojením (HTTPS) pro bezpečný přenos dat. Instalace antivirového softwaru a softwaru proti malware je také klíčová pro ochranu před škodlivým softwarem. Uživatelé by měli být obezřetní při sdílení osobních informací online a vyhýbat se podezřelým e-mailům a odkazům, které by mohly být součástí phishingových útoků. Tyto kroky mohou pomoci chránit uživatele před různými online hrozbami a zajistit bezpečné procházení internetem.
 
-### Pracé z Software
+### Pracé s Software
 
 Práce s softwarem je klíčová součástí moderního pracovního života. Při používání softwaru je důležité dbát na několik zásad, které zajišťují bezpečnost a efektivitu práce.
 
@@ -69,7 +69,7 @@ Ochrana heslem je klíčová pro ochranu citlivých údajů a účtů v softwaru
 Poskytujte uživatelům pravidelné školení o bezpečném používání softwaru a prevenci proti hrozbám, jako jsou phishingové útoky nebo malware.
 
 Instalujte a pravidelně aktualizujte antivirový software a softwarová řešení pro detekci a odstranění škodlivého softwaru, abyste chránili svá data a systém před hrozbami.
-### Pracé z Hardware
+### Pracé s Hardware
 Práce s hardwarem je neoddělitelnou součástí mnoha profesních i osobních činností. Při manipulaci s hardwarem je důležité dodržovat několik klíčových principů, které zajišťují bezpečnost a optimální výkon zařízení.
 
 Pravidelná údržba hardware je nezbytná pro zachování jeho funkčnosti a spolehlivosti. To zahrnuje čištění a odstraňování prachu, kontrolu a výměnu chladičů a ventilátorů a další rutinní úkony.
